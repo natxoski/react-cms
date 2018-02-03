@@ -1,0 +1,9 @@
+# dependencies
+/node_modules
+
+# prod
+/build
+
+# misc
+npm-debub.log*
+*.log
